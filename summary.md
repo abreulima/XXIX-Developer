@@ -17,7 +17,12 @@ We completed some exercises using methods such as  `Console.WriteLine("Hello Wor
 
 ## Theory
 
-To do...
+Discussion about IDEs.
+Primitive Types and methods Write, WriteLine and ReadLine.
+Coding conventions
+
+References ###
+[https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions](Coding Conventions)
 
 ## Practice
 
