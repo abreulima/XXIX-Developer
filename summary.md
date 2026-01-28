@@ -22,7 +22,7 @@ Primitive Types and methods Write, WriteLine and ReadLine.
 Coding conventions
 
 ### References 
-[Coding Conventions]([Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions))
+[Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
 ## Practice
 
